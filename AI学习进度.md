@@ -10,7 +10,7 @@
 - [x] 第 7 级：用 CC 读取/修改文件和表格
 - [x] 第 8 级：截图+文字教会 AI 操作流程，写成 Skill
 - [x] 第 9 级：用 CC 批量处理产品内容
-- [ ] 第 10 级：用 CC 上传/下载 GitHub，管理 Skill 仓库（前置：安装 gh CLI → https://cli.github.com）
+- [x] 第 10 级：用 CC 上传/下载 GitHub，管理 Skill 仓库（仓库：yangjianlei1-spec/my-skills）
 - [ ] 后续...
 
 ## 参考文档
